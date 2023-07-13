@@ -21,15 +21,9 @@ ksa {
     text-align: center;
     box-sizing: content-box;
 }
-/*#id {
-font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    color: rgb(3, 3, 97);
-    background-color: rgb(238, 230, 0);
-    text-align: justify;
-
+#id {
     background-color: #000000;
-    color: #110101;
+    color: #ddcfcfdf;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;

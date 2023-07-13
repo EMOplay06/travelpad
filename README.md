@@ -1,5 +1,5 @@
 # travelpad
-This is how i am getting started with my frontend website development class
+Getting started with FrontEnd Web Development
 
 #First FrontEnd Web Developement class with LuTA Accelerate.
 
