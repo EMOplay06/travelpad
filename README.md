@@ -1,6 +1,10 @@
 # travelpad
 This is how i am getting started with my frontend website development class
 
-#THERE IS MORE
+#First FrontEnd Web Developement class with LuTA Accelerate.
 
-Writing all the stories here.
+Main languages in use for this class are:
+
+HTML- Hyper Text Markup Language
+CSS- Cascading Stle Sheet
+JS- JavaScript
